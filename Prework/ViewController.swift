@@ -19,7 +19,7 @@ class ViewController: UIViewController {
         print("hello")
         TextLabel.textColor = UIColor.orange
         TextLabel.backgroundColor = UIColor.blue
-        self.TextLabel.text = "Goodbye"
+        self.TextLabel.text = "Goodbye👋🏻"
         self.view.backgroundColor = UIColor.blue
     }
     
