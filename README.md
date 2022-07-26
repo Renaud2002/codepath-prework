@@ -1,7 +1,10 @@
 ## Codepath Prework Project
 
 ### App Description
-`TODO://` Add app description
+ This project was made for the codepath Intro to Mobile Development(IOS) 
+ prework project. This is a simple app with a label and a button. On the click 
+ of the button the label text will change to say goodbye and the background color
+ will also change to blue.
 
 ### App Walk-though
 `TODO://` Add the URL to your animated app walk-though `gif` in the image tag below. Make sure the gif actually renders and animates when viewing this README. (☝️ Remove this paragraph after after adding gif)
@@ -16,7 +19,7 @@
 - [x] 3. User can tap a button to change the text color of the label.
 
 ### Optional User Stories
-- [ ] 1. User can tap a button to change the color of the background view.
+- [x] 1. User can tap a button to change the color of the background view.
 - [x] 2. User can tap a button to change the text string of the label - Goodbye 👋.
 - [ ] 3. User can tap on the background view to reset all views to default settings.
 - [ ] 4. User can update the label text with custom text entered into the text field.
